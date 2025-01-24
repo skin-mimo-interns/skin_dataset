@@ -1,0 +1,9 @@
+1. https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset
+     1. This dataset has 27k images divided in 10 classes.
+     2. No watermark images, some of them are repeated images from previous datasets.
+2. https://www.kaggle.com/datasets/artakusuma/basedir
+     1. HAM10000
+3. https://www.kaggle.com/datasets/ascanipek/skin-diseases
+     1. This dataset has 39k images divided in 7 classes
+     2. Some watermark and non- watermark images
+     3. Repeated images.
