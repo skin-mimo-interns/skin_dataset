@@ -1,3 +1,5 @@
+https://www.kaggle.com/datasets/pacificrm/skindiseasedataset
+
 # 🧴 Skin Disease Dataset 🧴
 
 > A comprehensive dataset for automated skin disease classification and diagnostics.
