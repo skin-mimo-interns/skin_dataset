@@ -7,3 +7,5 @@
      1. This dataset has 39k images divided in 7 classes
      2. Some watermark and non- watermark images
      3. Repeated images.
+4. https://www.kaggle.com/datasets/andrewmvd/isic-2019
+     1. 39k images by ISIC divided into 10 classes.
