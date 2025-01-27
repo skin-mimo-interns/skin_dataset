@@ -9,3 +9,5 @@
      3. Repeated images.
 4. https://www.kaggle.com/datasets/andrewmvd/isic-2019
      1. 39k images by ISIC divided into 10 classes.
+5. https://www.kaggle.com/datasets/mahdavi1202/skin-cancer
+     1. 2.2k images with a lot of metadata
