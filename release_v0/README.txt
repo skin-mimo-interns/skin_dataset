@@ -1,5 +1,8 @@
-Thank you for downloading the 7-point criteria dataset!
 
+The folder 'Carcinoma_Keratosis_Milia' is a seperate dataset, containg images belonging to three class namely: Carcinoma, Keratosis, Milia
+
+
+Thank you for downloading the 7-point criteria dataset!
 Please note that:
 1. The images may be used for academic research purposes.
 2. The images may not be redistributed (images can be downloaded from: http://derm.cs.sfu.ca/)
